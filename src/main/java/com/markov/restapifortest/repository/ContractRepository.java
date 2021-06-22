@@ -5,7 +5,6 @@ import com.markov.restapifortest.entity.Contract;
 import com.markov.restapifortest.entity.ContractMapper;
 import com.markov.restapifortest.exception.NotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.crossstore.ChangeSetPersister;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 
